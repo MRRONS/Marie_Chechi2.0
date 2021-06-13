@@ -18,7 +18,8 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഹായ് {}, എന്റെ പേര് {}! ഞാൻ @FiLmCiTyHd1 എന്ന ഗ്രൂപ്പ് മനേജ് ചയുന്ന ബോട്ട് ആണ് ..
+ഹായ് {}, എന്റെ പേര് {}! 
+ഞാൻ @FiLmCiTyHd1 എന്ന ഗ്രൂപ്പ് മനേജ് ചയുന്ന ബോട്ട് ആണ് ..
  
 എന്നെ മറ്റു ഗ്രൂപ്പിൽ ഒന്നും ഉപയോഗിക്കാൻ കഴിയുകയില്ല❌
 
